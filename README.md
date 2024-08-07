@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValerieNic
 - 👀 I’m interested in finding creative solutions to make things more accessable to end users
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything Python related but specifically things that are centered around accessability
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on anything Python or SQL related but specifically things that are centered around accessability
 - 📫 How to reach me 
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: 
